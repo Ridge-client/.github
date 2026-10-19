@@ -33,6 +33,6 @@ Ridge puts the OSINT toolkit and your sock-puppet personas in one place. You no 
 
 ## Disclaimer & Licensing
 
-Ridge is an independent project and is **not affiliated with, endorsed by, or associated with the Awesome-OSINT-List or any of the tools and websites it catalogs**.
+Ridge is an independent project and is **not affiliated with, endorsed by, or associated with any of the tools and websites it catalogs**.
 
 The client is released under the GNU General Public License v3.0 (GPL-3.0). Please refer to individual repositories for contributor history, lineage, and upstream credits.
